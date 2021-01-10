@@ -1,0 +1,774 @@
+<!DOCTYPE html>
+<html>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+    <head>
+        <title>birthday present</title>
+        
+ <style>
+     
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
+
+   body {
+  font-family: Arial, Helvetica, sans-serif; text-align:center  
+}
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  -webkit-animation-name: fadeIn; /* Fade in the background */
+  -webkit-animation-duration: 0.4s;
+  animation-name: fadeIn;
+  animation-duration: 0.4s
+}
+
+/* Modal Content */
+.modal-content {
+  position: fixed; bottom: 0;background-color: #fefefe;  width: 100%;
+  -webkit-animation-name: slideIn;
+  -webkit-animation-duration: 0.4s; animation-name: slideIn; animation-duration: 0.4s
+}
+#myBtn{
+    border:solid 5px #30fff1;color:#d611f0; font-size:30px; background-color:#29f700;
+}
+.modal-header {
+  padding: 2px 16px; background-color: #5cb85c; color: white;
+}
+
+.modal-body {padding: 2px 16px;   
+    text-transform:uppercase ;
+
+}
+/* Add Animation */
+@keyframes slideIn {
+  from {bottom: -300px; opacity: 0}
+  to {bottom: 0; opacity: 1}
+}
+@keyframes fadeIn {
+  from {opacity: 0} 
+  to {opacity: 1}
+}
+
+
+
+
+
+body {
+     background-color:rgb(199, 212, 202)
+
+}
+.square-01{
+    background:url('https://i.ibb.co/MhVL7Rs/079579cae087fc968a5d78113ed6c04d.jpg');
+width:400px;
+height:100vh;
+background-attachment:fixed;
+    background-size:400px 100vh;
+    background-position:top right;
+    background-repeat:no-repeat;
+    margin:-23px;
+
+    padding-left:26px;
+    -webkit-clip-path: circle(99.5% at 99% 18%);
+}
+h1{
+    color:white;
+    font-weight:normal;
+    text-align:center;
+    font-family: 'Monoton', cursive;
+    
+}
+.square-02{
+    height:600px;
+    background-repeat:no-repeat ;
+    width:400px;
+   // background-color:rgb(206, 52, 217);
+  background-image:url("https://i.pinimg.com/474x/68/8b/68/688b68c4ec4733ff7b72443cba0f193f.jpg");  
+    border-radius:00x;
+    
+}
+#uuu{
+    color:transparent ;
+}
+#bsm{
+    height:170px;
+    width:290px;
+    font-size:1.6em;
+    margin:50px;
+    color:rgb(252, 255, 54);
+    padding:10px;
+    background-color:transparent ;
+    transform:rotate(-20deg);
+    border-radius:0px 0px 120px 12px;
+}
+
+#raatbhar{
+    height:140px;
+    margin:-10px;
+    width:260px;
+    font-size:1.1em;
+    margin-right:100px;
+    color:rgb(26, 250, 10);
+    margin-bottom:40px;
+    padding:px;
+    background-color:blue;
+}
+
+🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹
+
+#square-03{
+    height:400px;
+    width:400px;
+    background-color:red;
+    
+    
+    
+}
+.square-03{
+    height:720px;
+    width:400px;
+    
+    background-image:url("https://i.gifer.com/76YS.gif");
+    
+}
+h4{
+    text-align:center;
+}
+
+
+#oppo{
+    background-image:url(https://cache.lovethispic.com/uploaded_images/349186-Falling-Heart-Happy-Birthday-Cake-Gif.gif);
+    height:500px;
+    width:400px;
+    background-repeat:no-repeat ;
+    background-position:center;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+.sam{
+    text-align:left;
+    margin-top:10px;
+    color:yellow;
+}
+
+
+
+ </style>       
+        
+        
+        
+        
+    </head>
+    <body>
+    
+        <div class="square-01">
+          <p id="uuu">A<br/>
+        </p>
+        
+        <div class="sam">
+<span style="font-size:30px;align:;cursor:pointer" onclick="openNav()">&#9776;</span></div>
+            <h1 align="top">HAPPY BIRTHDAY</br>MANSI</h1>
+        </div>
+      
+      <style>
+
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="https://wa.me/917667290504?text=helloAnkit">About</a>
+  <a href="https://www.instagram.com/p/CJ1EcKbjT5-/?utm_source=ig_web_copy_link">gifts</a>
+  <a href="https://youtu.be/i-MkGblvbdQ">Clients</a>
+  <a href="https://wa.me/message/3D5HDVWGVHNEN1">Contact</a>
+</div>
+
+<!--h2>Animated Sidenav Example</h2>
+<p>Click on the element below to open the side navigation menu.</p-->
+<!--div class="sam">
+<span style="font-size:30px;align:;cursor:pointer" onclick="openNav()">&#9776;</span></div-->
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+      
+      
+      
+      
+      
+        
+        <div class="square-02">
+       <p id="uuu">A<br/>B<br/>C<br/>
+        </p>
+        <div id="bsm">Wishing you happiness To welcome each morning, wishing you laughter To make your heart sing. Wishing you friendship sharing and caring, And all of the joy the birthday can bring.............</div>
+     
+     
+        <!--p id="uuu">A<br/>B<br/>C</br>D<br>E<br/>F<br/>
+        </p-->
+      
+            
+        </div>
+        <div class="square-03">
+            <img src="https://scontent-bom1-2.xx.fbcdn.net/v/t1.0-9/cp0/e15/q65/p720x720/137564446_189939502832661_2271747778190665306_o.jpg?_nc_cat=111&ccb=2&_nc_sid=110474&efg=eyJpIjoiYiJ9&_nc_ohc=NVZesuDctmwAX-uMEm-&_nc_ht=scontent-bom1-2.xx&tp=3&oh=07c359873f3116c4391d41f220c831d8&oe=601E8337" width=400px
+        </div>
+        
+       <div id="oppo"></div> 
+      <style>
+ 
+</style>
+<!-- Trigger/Open The Modal -->
+<button id="myBtn">contact</button>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+ <!-- Modal content -->
+  <div class="modal-content">
+    <div class="modal-header">
+      <h2>Welcome to the world of Mr Ankit sharma</h2>
+    </div>
+    <div class="modal-body">
+      <p>you wanna talk to Ankit sharma</p>
+      <p></p>
+      <p>then contact with whatsapp</p>
+      <a href="https://wa.me/message/3D5HDVWGVHNEN1">w</a>
+      <p></p>
+    </div>
+  </div>
+
+</div>
+
+<script>
+// Get the modal
+var modal = document.getElementById("myModal");
+
+// Get the button that opens the modal
+var btn = document.getElementById("myBtn");
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[00];
+
+// When the user clicks the button, open the modal 
+btn.onclick = function() {
+  modal.style.display = "block";
+}
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+</script>
+  
+        <iframe width="400" height="355" src="https://www.youtube.com/embed/lG6HVrrXup8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
+
+
+
+
+
+
+       <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CC0WXrNDyuv/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/CC0WXrNDyuv/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);">
+           
+       </div> 
+       <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);">
+           
+       </div> 
+       <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);">
+           
+       </div>
+           
+       </div>
+           
+       </div> 
+       <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> 
+       <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;">
+           
+       </div> 
+       <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;">
+           
+       </div>
+           
+       </div>
+           
+       </a>
+           
+       <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
+           
+       <a href="https://www.instagram.com/p/CC0WXrNDyuv/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by KUHELI SAHA(kuhu) (@its_bengali_queen_002)</a>
+           
+       </p>
+           
+       </div>
+           
+       </blockquote>
+       
+        <script async src="//www.instagram.com/embed.js"></script>     
+        
+  <h4>Your best friend</h4>
+  
+  <hr width="400px">
+  <h4>&copy;created by Ankit sharma</h4>
+  
+  <script>
+      /*
+      csa.plugin(function(i){var t,a="transitionStart",e="pageVisible",n="PageTiming",o="visibilitychange",r="$latency.visible",d=i("Events",{producerId:"csa"}),m=i.global,s=(m.performance|
+      
+      
+      
+      
+      
+      
+      |{}).timing,c=["navigationStart","unloadEventStart","unloadEventEnd","redirectStart","redirectEnd","fetchStart","domainLookupStart","domainLookupEnd","connectStart","connectEnd","secureConnectionStart","requestStart","responseStart","responseEnd","domLoading","domInteractive","domContentLoadedEventStart","domContentLoadedEventEnd","domComplete","loadEventStart","loadEventEnd"],l=m.Math,u=l.max,g=l.floor,v=m.document||{},f=(s|
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      |{}).navigationStart,p=f,E=0;if(m.Object.keys&&[].forEach&&!i.config["KillSwitch."+n]){if(!s||null===f||f<=0||void 0===f)return i.error("Invalid navigation timing data: "+f);b(),("boolean"==typeof v.hidden||"string"==typeof v.visibilityState)&&v.addEventListener&&v.removeEventListener?L()?(i.emit(r),S(e,f)):v.addEventListener(o,function t(
+          
+          
+          
+          
+          
+          
+          
+      ){L()&&(p=i.time(),v.removeEventListener(o,t),i.emit(r),S(e,p),S(a,p))}):i.emit(r),i.once("$unload",y),i.once("$load",y),i.on("$beforePageTransition",b),i.on("$pageTransition",function(){p=i.time()}),i.register(n
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      ,{mark:S})}function S(e,n){null!=e&&(n=n||i.time(),e===a&&(p=n),i.emit("$timing:"+e,n),i.once(r,function(){d("log",{messageId:t,__merge:function(t){t.markers[e]=function(t,e){return u(0,e-t)}(p,n),t.markerTimestamps[e]=function(t){return g(t)}(n)},markers:{},markerTimestamps:{},navigationStartTimestamp:p?new Date(p).toISOString():null,schemaId:"<ns>.PageLatency.5"},{ent:{page:["pageType","subPageType","requestId"]}})}))}function b(){t=i.UUID()}function y(){if(!E){for(var t=0;t<c.length;t++)s[c[t]]&&S(c[t],s[c[t]]);E=1}}function L(){return
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      !v.hidden||"visible"===v.visibilityState}});csa.plugin(function(e){var m=!!e.config["LCP.elementDedup"],t=!1,n=e("PageTiming"),r=e.global.PerformanceObserver,a=e.global.performance;if(r&&a&&a.timing){var i=e.exec(function(){t||function(o){var l=new r(function(e){var t=e.getEntries();if(0!==t.length){var n=t[t.length-1];if(m&&""!==n.id&&n.element&&"IMG"===n.element.tagName){for(var r={},a=t[0],i=0;i<t.length;i++)t[i].id in r||(""!==t[i].id&&(r[t[i].id]=!0),a.startTime<t[i].startTime&&(a=t[i]));n=a
+      
+      
+      
+      
+      
+      
+      
+      
+      }l.disconnect(),o({startTime:n.startTime,renderTime:n.renderTime,loadTime:n.loadTime})}});try{l.observe({type:"largest-contentful-paint",buffered:!0})}catch(e){}}(function(e){e&&(t=!0,n("mark","largestContentfulPaint",Math.floor(e.startTime+o())),e.renderTime&&n("mark","largestContentfulPaint.render",Math.floor(e.renderTime+o())),e.loadTime&&n("mark","largestContentfulPaint.load",Math.floor(e.loadTime+o())))})});e.once("$unload",i),e.once("$load",i),e.register("LargestContentfulPaint",{})}function o(){return a.timing.navigationStart}});csa.plugin(function(r){var e=r("Metrics"
+      
+      
+      
+      
+      
+      
+      
+      
+      ,{producerId:"csa"}),n=r.global.PerformanceObserver;n&&(n=new n(function(r){var t=r.getEntries();if(0===t.length||!t[0].processi
+      
+      
+      ngStart||!t[0].startTime)return;!function(r){r=r||0,n.disconne
+      
+      
+      ct(),0<=r?e("recordMetric","firstInputDelay",r):e("rec
+      
+      
+      
+      
+      
+      ordMetric","firstInputDelay.invalid",1)}(t[0].processingStart-t[0].startTime
+      
+      
+      
+      )}),function(
+      
+          
+          
+          
+          
+          
+          
+          
+          
+          
+      ){try{n.observe({type:"first-input",buffered:!0})}catch(r){}}())});csa.plugin(function
+      
+      
+      (o){var 
+      
+      s,
+      
+      
+      
+      e="Metrics";function r(){s=o.UU
+      
+      
+      
+      ID()}function n(e){var r=e.producerId,n=e.logger,i=n||o("Even
+      
+      
+      
+      ts",{producerId:r}),t={},c
+      
+      
+      
+      =(e||{}).dimensions||{};if(!r&&!n)return o.error("Either a producer id or
+      
+      
+      
+       custom logger must be defined");this.recordMetric=function(r
+      
+      
+      
+      ,n){t[r]=n,i("log",{messageId:s,schemaId:e.schemaId||"<ns>.Metric.3",metrics:{},dimensions:c,__merge
+      
+      
+      
+      
+      
+      
+      
+      :function(e){e.metrics[r]=n}},e.logOptions||{ent:{page:["pageType","subPageType","requestId"]}})}}o.config["KillSwitch."+e]||(r(),new n({producerId:"csa"}).recordMetric("baselineMetricEvent",1),o.on("$beforePageTransition",r),o.register(e,{instance:function(e){return new n(e||{})}}))});csa.plugin(function(t){var a,r=(t.
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      global.performance||{}).timing,s=(r||{}).navigationStart||t.time();function e(){a=t.UUID()}function n(i){var r=(i=i||{}).producerId,e=i.logger,o=e||t("Events",{producerId:r});if(!r&&!e)return t.error("Either a producer id or custom logger must be defined");this.mar
+      
+      
+      
+      
+      
+      
+      
+      k=function(e,r){var n=(void 0===r?t.time():r)-s;o("log",{messageId:a,schemaId:i.schemaId||"<ns>.Timer.1",markers:{},__merge:function(r){r.markers[e]=n}},i.logOptions)}}r&&(e(),t.on("$beforePageTransition",e),t.register("Timers",{instance:function(r){return new n(r||{})}}))});csa.plugin(function(t){var e="takeRecords",i="disconnect",n="function",o="addEvent
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      Listener",c="removeEventListener",a="click",r=t("Metrics",{producerId:"csa"}),u=t("PageTiming"),f=t.global,m=f.PerformanceObserver,s=0,l=!1,d=0,v=f.performance,h=f.document,y=null,g=!1;if(m&&v&&v.timing&&h){m=new m(function(t
+      
+      
+      
+      
+      
+      
+      
+      ){y&&clearTimeout(y);t.getEntries().forEach(function(t){t.hadRecentInput||(s+=t.value,d<t.startTime&&(d=t.startTime))}),y=setTimeout(T,5e3)}),function(){try{m.observe({type:"layout-shift",buffered:!0}),y=setTimeout(T,5e3)}catch(t){}}();var p=t.exec(T);h[o](a,function t(e){g||(g=!0,r("recordMetric","documentCumulativeLayoutShiftToFirstIn
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      put",s),h[c](a,t))}),h[o]("visibilitychange",function(){"hidden"===h.visibilityState&&p()}),t.once("$unload",p)}function T(){l||(l=!0,clearTimeout(y),typeof m[e]===n&&m[e](),typeof m[i]===n&&m[i](),r("recordMetric","documentCumulativeLayoutShift",s),u("mark","cumulativeLayoutShiftLastTimestamp",Math.floor(d+v.timing.navigationStart)))}});csa.plugin(function(e){var n=e.global,r=n.PerformanceObserver,t=e("Metrics",{producerId:"csa"}),o=0,c=0,i=-1,a=n.Math,l=a.max,f=a.ceil;function u(){t("recordMetric","totalBlockingTim
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      e",f(c||0)),t("recordMetric","totalBlockingTimeInclLCP",f(o||0)),t("recordMetric","maxBlockingTime",f(i||0)),c=o=0,i=-1}r&&(new r(e.exec(function(e){e.getEntries().forEach(function(e){var n=e.duration;o+=n,c+=n,i=l(n,i)})})).observe({type:"longtask",buffered:!0}),new r(e.exec(function(e){0<e.getEntries().length&&(c=0,i=-1)})).observe({type:"largest-contentful-paint",buffered:!0}),e.on("$unload",u),e.on("$beforePageTransition",u))});csa.plugin(function(r){var e="CacheDetection",o="csa-ctoken-",n=r
+      
+      
+      
+      
+      
+      
+      
+      .store
+      
+      
+      ,t=r.deleteSt
+      
+      
+      ored,c=r.config,a=c[e+".RequestID"],s=c[e+".Callback"],i=r.global,u=i.docume
+      
+      n
+      t||{},d=i.Date,f=r("Events"),l=r("Events",{producerId:"csa"});function p(e){try{var 
+      
+      
+      
+      n=u.cookie.match(RegExp("(^| )
+      
+      
+      
+      
+      
+        n&&n[2].trim()}catch(e){}}!function(){var e=function(){var e=p("cdn-rid");if(e)return{r:e,s:"cdn"}}()||function(){if(r.store(o+a))return{r:r.UUID()
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      .to
+      
+      
+      
+      UpperCase
+      
+      
+      ().replace(/-/g,"").slice(0,20),s:"device"}}()||{},n=e.r,c=e.s;if(!!n){var t=p("session-id
+      
+      
+      
+      ");!funct
+      ion(e,n,c){f("setEntity",{page:{pageSource:"cache",requestId:e,cacheRequestId:a},session:{id:c}}),l("log",{schemaId:"<ns>.C
+      ac
+      heImpression
+      
+      
+      
+      .1"},{ent:"all"})}(n,0,t),s&&s(n,t,c)}}(),n(o+a,
+      ()+36e5),r.once("$load",r.exec(function(){var c=d.now();t(function(e,n){return 0==e.indexOf(o)&&parseInt(n)<c})}))});csa.plugin(function(c){var
+      
+      
+      
+      
+      
+      
+      
+       i,t="Content",e="MutationObserver",n="requestAnimationFrame",r="addedNodes",u="querySelector
+       
+       
+       
+       
+       All",a="matc
+       
+       
+       
+       hes",o="getAttributeNames",s="getAttribute",f="dataset",l="widget",d="producerId",m={ent:{element:1,page:["pageType","su
+       
+       
+       
+       bPageType","requestId"]}},h=5,g=10,p="csaC",v=p+"Id",y={},E=c.config,b=E[t+".Selector
+       
+       
+       
+       s"]||[],I=E[t+".WhitelistedAttributes"]||{href:1,class:1},w=E[t+".EnableContentEntities"],A=c.global,C=A.document||{},k=C.documentEl
+       
+       
+       
+       ement,L=A.HTMLElement,N={},O=[],U=function(t,e,n,i){var r=this,o=c("Events",{producerId:t||"csa"});e.t
+       
+       
+       
+       ype=e.type||l,r.id=e.id,r.l=o,r.e
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      =e,r.el=n,r.rt=i,r.dlo=m,r.log=function(t,e
+      
+      
+      
+      
+      ){o("log",t,e||m)},e.id&&o("setEntity"
+      
+      
+      
+      
+      
+      ,{element:e})},q=U.prototype;function T(t){var e=(t=t||{}).element,n=t.target;return e?function(t,e){
+      
+      
+      
+      
+      
+      
+      
+      
+      var n;n=t instanceof L?F(t)||$(e[d
+      
+      
+      
+      ],t,H,c.time()):N[t.id]||_(e[d],0,t,c.time());return n}(e,t):n?function(t
+      
+      
+      
+      
+      
+      
+      
+      
+      ){var e,n=function(t){var e=nu
+      
+      
+      
+      
+      
+      ll,n=0;for(;t&&n<g;){if(n++,j(t,v))
+      
+      
+      
+      {e=t;break}t=t.parentElement}return e}(t);e=n?F(n):new U("csa",{id:null},null,c
+      
+      
+      
+      
+      
+      .time());return e}(n):c.error("No element or target argument provided.")}function 
+      
+      
+      
+      
+      
+      
+      j(t,e){if(t&&t.dataset)return t.
+      
+      
+      
+      
+      
+      dataset[e]}function x(t,e,n){O.pus
+      
+      
+      
+      
+      h({n:n,e:t,t:e}),M()}function D(){for(var t=c.time(),e=0;0<O.length;){var n=O.shif
+      
+      
+      
+      
+      
+      t();if(y[n.n](n.e,n.t),++e%10==0&&c.time()-t>h)break}i=0,O.lengt
+      
+      
+      
+      h&&M()}fun
+      
+      
+      
+      
+      
+      
+      ction M(){i=i||A[n](D)}function S(t,
+      
+      
+      e,n){return{n:t,e:e,t:n}}functi
+      
+      
+      
+      on $(t,e,n,i){var r=c.UUID(),o={id:r};return e[f][v]=r,n(o,e),_(t,e,o,i)}function _
+      
+      
+      
+      
+      (t,e,n,i){w&&(n.schemaId="<ns>.Con
+      
+      
+      
+      tentEntity.2"),n.id=n.id||c.UUID();var r=new U(t,n,e,i);return w&&r.log({schemaId:"<ns>.ContentRender
+      
+      
+      
+      .1",timestamp:i}),c.emit("$*/
+  </script>
+  
+    </body>
+</html>
+  <!--div id="raatbhar">
+            🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐
+        </div-->
